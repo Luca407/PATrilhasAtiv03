@@ -17,10 +17,10 @@ namespace IfMaiorEMenor
            	
            	if (n1 < n2 && n1 > n3)
            	{	
-           		Console.WriteLine("O número " + n1 + " é menor que o numero " + n2 + " e maior que o " + n3);
+           	Console.WriteLine("O número " + n1 + " é menor que o numero " + n2 + " e maior que o " + n3);
            	} else
            		{
-           			Console.WriteLine("Incorreto");	
+           		Console.WriteLine("Incorreto");	
            		}
            	Console.ReadKey(true);
         }
