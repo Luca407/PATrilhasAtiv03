@@ -11,13 +11,11 @@ namespace ParOuImpar
             int x = int.Parse(Console.ReadLine());
            	
            	
-            if (x % 2 == 0 )
-           	{	
+            if (x % 2 == 0 ) {	
             Console.WriteLine("é par");
-            } else
-       			     {
-            		Console.WriteLine("é impar");
-					}
+            } else {
+            Console.WriteLine("é impar");
+	    }
            	Console.ReadKey(true);
         }
     }
