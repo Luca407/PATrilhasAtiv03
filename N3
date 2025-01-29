@@ -13,13 +13,11 @@ namespace NumerosIguais
            	int y = Convert.ToInt32(Console.ReadLine());
            	
            	
-           	if (x == y)
-           	{	
-           		Console.WriteLine("Os números são iguais");
-           	} else
-           		{
-           			Console.WriteLine("Os números não são iguais");	
-           		}
+           	if (x == y) {	
+           	Console.WriteLine("Os números são iguais");
+           	} else {
+           	Console.WriteLine("Os números não são iguais");	
+           	}
            	Console.ReadKey(true);
         }
     }
