@@ -1,6 +1,6 @@
 using System;
 
-namespace DiferençaMaiorMenorIgual10
+namespace Diferença10
 {
     class Program
     {
