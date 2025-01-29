@@ -13,13 +13,11 @@ namespace MenorNumero
            	int y = Convert.ToInt32(Console.ReadLine());
            	
            	
-           	if (x < y)
-           	{	
-           		Console.WriteLine("O menor número é: " + x);
-           	} else
-           		{
-           			Console.WriteLine("O menor número é: " + y);	
-           		}
+           	if (x < y) {	
+           	Console.WriteLine("O menor número é: " + x);
+           	} else {
+           	Console.WriteLine("O menor número é: " + y);	
+           	}
            	Console.ReadKey(true);
         }
     }
