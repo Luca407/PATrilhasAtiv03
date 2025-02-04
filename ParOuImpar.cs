@@ -1,7 +1,5 @@
 using System;
 
-namespace ParOuImpar
-{
     class Program
     {
         public static void Main(string[] args)
@@ -19,4 +17,4 @@ namespace ParOuImpar
            	Console.ReadKey(true);
         }
     }
-}
+
