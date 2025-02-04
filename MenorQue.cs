@@ -1,7 +1,5 @@
 using System;
 
-namespace MenorNumero
-{
     class Program
     {
         public static void Main(string[] args)
@@ -21,4 +19,3 @@ namespace MenorNumero
            	Console.ReadKey(true);
         }
     }
-}
