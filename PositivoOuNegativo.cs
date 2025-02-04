@@ -1,7 +1,5 @@
 using System;
 
-namespace ImparOuPar
-{
     class Program
     {
         public static void Main(string[] args)
@@ -9,17 +7,14 @@ namespace ImparOuPar
             Console.WriteLine("Digite um número: ");
             int x = Convert.ToInt32(Console.ReadLine());
 
-            if (x > 0) {
+            if (x >= 0) {
             Console.WriteLine("O número é positvo");
             } 
             else if (x < 0) {
             Console.WriteLine("O número é negativo");    
             } 
-            else {
-            Console.WriteLine("O número não é impar ou par");
-            }
 
             Console.ReadKey(true);
         }
     }
-}
+
