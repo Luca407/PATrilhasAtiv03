@@ -1,7 +1,5 @@
 using System;
 
-namespace MenorMaiorIgual
-{
     class Program
     {
         public static void Main(string[] args)
@@ -23,4 +21,3 @@ namespace MenorMaiorIgual
             Console.ReadKey(true);
         }
     }
-}
