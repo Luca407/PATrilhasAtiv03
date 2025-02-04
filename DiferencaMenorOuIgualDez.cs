@@ -1,14 +1,12 @@
 using System;
 
-namespace Diferença10
-{
     class Program
     {
         public static void Main(string[] args)
         {
             Console.WriteLine("Digite um número: ");
             int x = Convert.ToInt32(Console.ReadLine());
-			Console.WriteLine("Digite um número: ");
+	    Console.WriteLine("Digite um número: ");
             int y = Convert.ToInt32(Console.ReadLine());
             
           int diferenca = x - y; // Calcula a diferença absoluta entre os dois números
@@ -23,4 +21,4 @@ namespace Diferença10
             Console.ReadKey(true);
         }
     }
-}
+
