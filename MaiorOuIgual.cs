@@ -1,7 +1,5 @@
 using System;
 
-namespace IfMaiorEMeno
-{
     class Program
     {
         public static void Main(string[] args)
@@ -24,4 +22,3 @@ namespace IfMaiorEMeno
            	Console.ReadKey(true);
         }
     }
-}
