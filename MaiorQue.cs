@@ -1,7 +1,5 @@
 using System;
 
-namespace MaiorNumero
-{
     class Program
     {
         public static void Main(string[] args)
@@ -21,4 +19,4 @@ namespace MaiorNumero
            	Console.ReadKey(true);
         }
     }
-}
+
