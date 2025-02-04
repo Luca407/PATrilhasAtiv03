@@ -1,7 +1,5 @@
 using System;
 
-namespace DiferençaMaiorMenorIgual10
-{
     class Program
     {
         public static void Main(string[] args)
@@ -19,4 +17,3 @@ namespace DiferençaMaiorMenorIgual10
             Console.ReadKey(true);
         }
     }
-}
